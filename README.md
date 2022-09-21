@@ -5,6 +5,7 @@
 ### Git
 
 - [01-Git 团队协作开发](./01/README.md)
+- [02-Git 安装、配置、命令、tag、原理、分支管理、flow、merge、rebase](https://github.com/ppambler/fe-coderwhy/blob/main/README.md#1git) `private` `coderwhy`
 
 ### Webpack
 
